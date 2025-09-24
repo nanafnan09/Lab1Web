@@ -15,5 +15,15 @@ Mata Kuliah: Pemrograman Web
 berikut code yang sudah saya pelajari
 
 # Tampilan Halaman 1
+![foto](https://github.com/nanafnan09/Lab1Web/blob/0f170b5441ed26ea67ec136fc382fd84d1648bc7/tampilan%20halaman%201.png)
+
+Difoto tersebut terdapat 3 tombol:
+
+1.```Dasar HTML```, Yaitu tombol untuk mengakses tampilan awal
+
+2.```Halaman 2```, Yaitu Tombol untuk mengakses tampilan kedua
+
+3.```Akses Web Google```, Yaitu tombol untuk membuka google.com
+
 
 
